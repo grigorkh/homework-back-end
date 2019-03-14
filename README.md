@@ -1,7 +1,7 @@
 # Mappr Back End Homework
 
 # Jarvis-Bot
-#### Jarvis is not a Iron Man's butler. Jarvis will be a command line node app that takes in parameters and gives you back data.
+#### Jarvis is not the Iron Man's butler. Jarvis will be a command line node app that takes in parameters and gives you back data.
 
 ## Description on how to use the app
 
